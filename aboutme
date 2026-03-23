@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>About Me</h1>
+
+<p>My name is Joseph Halbfoerster, and I am a transfer junior student in the Information Technology Program. I am a recent graduate of the Networking Specialist Associates program at Athens Technicall College.</p>
+<p>I work and live in Monroe, GA, as the Systems Technician for the City. I grew up in Wisconsin and moved down to Georgia after completing my first Associates Degree at the Northeast Wisconsin Technicall College.</p>
+<p>I like to play video games and board games with my friends, read, and watch movies as well as go to the gym.</p>
+<p>My career goals would to eventually roll into my supervisors position at the City of Monroe. He is the Systems Administrator. With Monroe continuing to grow it would be nice if our IT department grows to the point of needing a department head that I could take on that role if it ever came up.</p>
+
+<h2>Pages</h2>
+<ol>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/mainpage"> Home Page</a></li>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/cookies"> Cookies and Data</li>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/privacy">Privacy and Data</li>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/wheredoesitgo">Where Does It Go</li>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/references">References and More Information </li>
+</ol>
+
+</body>
+</html>
