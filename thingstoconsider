@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Things To Consider</h1>
+
+<p>This page is going to include steps to take when handeling your data on the internet and features on browsers, phones and computers have to protect your data</p>
+
+<h2>Pages</h2>
+<ol>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/mainpage"> Home Page</a></li>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/cookies"> Cookies and Data</li>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/privacy">Privacy and Data</li>
+  <li><a href="https://itsmejosephhalbfoerster.github.io/wheredoesitgo"?>Where Does It Go</li>
+  <li>Key Terms</li>
+  <li>References and More Information </li>
+</ol>
+
+</body>
+</html>
